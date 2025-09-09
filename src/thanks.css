@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(199, 154, 242);
+}
+div{
+    margin-left: 700px;
+    margin-top: 400px;
+}
+p[name="txt"]{
+    font-size: 40px;
+}
+a {
+    color: inherit; 
+    text-decoration: none; 
+}
